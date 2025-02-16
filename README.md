@@ -103,11 +103,6 @@ This implementation is inspired by the following papers:
 - Alexandre, D., Chang, C.-P., Peng, W.-H., & Hang, H.-M. (2019). An Autoencoder-based Learned Image Compressor: Description of Challenge Proposal by NCTU. https://doi.org/10.48550/arXiv.1902.07385
 - Wang, B., & Lo, K.-T. (2024). Autoencoder-based joint image compression and encryption. Journal of Information Security and Applications, 80, 103680. https://doi.org/10.1016/j.jisa.2023.103680
 
-## Authors
-- Sougata Moi (M23MAC008)
-- Mitesh Kumar (M23MAC004)
-- Niraj Singha (M23MAC005)
-- Ratnesh Kumar Tiwari (M23MAC011)
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
